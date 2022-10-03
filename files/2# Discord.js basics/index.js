@@ -82,7 +82,7 @@ let token = 'replace';
 client.login(token);
 
 // Now we can run the file by pressing F5 or by using the following command in the terminal:
-// node files/2# Discord.js basics/index.js
+// node "files/2# Discord.js basics/index.js"
 
 // To test it out send a message in a channel the bot can see and it should reply with "Hello World!" and send "Hello World!" in the channel
 
